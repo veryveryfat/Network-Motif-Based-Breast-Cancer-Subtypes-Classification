@@ -1,4 +1,4 @@
-# Network-Motif-Based-Breast-Cancer-Subtypes-Classification
+## Network Motif-Based Breast Cancer Subtypes Classification
 
 ## Computational Genomics
 Author: D.C, Y.L
